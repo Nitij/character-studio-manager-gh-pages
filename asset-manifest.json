@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/character-studio-manager-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/character-studio-manager-gh-pages/static/js/main.96b28c08.js",
+    "index.html": "/character-studio-manager-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/character-studio-manager-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.96b28c08.js.map": "/character-studio-manager-gh-pages/static/js/main.96b28c08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.96b28c08.js"
+  ]
+}
